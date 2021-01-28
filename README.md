@@ -1,2 +1,2 @@
-# WHMCS-modules
+# WHMCS modules/hooks
 Coming Soon
